@@ -1,5 +1,5 @@
 """
-Audit AI v10.0 — Аудитын дашбоард систем
+Audit AI — Аудитын дашбоард систем
 Гүйлгээний баланс + Ерөнхий журнал + Машин сургалт + Тайлбарлагдах ХОУ
 pip install streamlit pandas numpy scikit-learn plotly openpyxl shap
 streamlit run audit_app.py
